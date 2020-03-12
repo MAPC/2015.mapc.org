@@ -1,6 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-@import url(http://fonts.googleapis.com/css?family=Lato);
-@import url(http://fonts.googleapis.com/css?family=Merriweather);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -6303,7 +6303,7 @@ html body {
   background: url('../images/MAPC-header2016.png') repeat fixed;
   position: relative;
   /*	background: url('../images/MAPC-header.png') center center no-repeat;
-	position: relative; 
+	position: relative;
 	min-height: 183px;
     height: 400px;
     max-height: 400px;
